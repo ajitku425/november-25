@@ -1,2 +1,1 @@
-
-Hi This is Ajit
+Hi This is Ajit. Welcome to Git tutorial. Will learn add, push, commit commands
